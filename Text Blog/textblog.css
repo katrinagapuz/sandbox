@@ -1,0 +1,23 @@
+body {
+	width: 50%;
+	margin: 20px auto;
+	border: 20px solid #CACBCE;
+	padding: 60px;
+}
+
+.date {
+	font-family: Archivo;
+	font-size: 12px;
+	color: #78B5E2;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.quote {
+	border-left: 4px solid #5B5F62;
+	padding-left: 10px;
+}
+
+hr {
+	margin: 50px auto;
+}

@@ -1,0 +1,49 @@
+html {
+	height: 100%;
+}
+
+.navbar-default .navbar-brand {
+	font-family: Montserrat;
+}
+
+body {
+	background: url(https://images.unsplash.com/photo-1484902432883-a4e26c3d664a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
+	background-size: cover;
+	color: white;
+}
+
+.content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1 {
+	font-size: 100px;
+}
+
+h3 {
+	font-family: Courgette;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+	font-family: Raleway;
+	font-weight: 400;
+	font-size: 15px;
+	border-color: white;
+	border-radius: 3px;
+	padding: 6px 12px;
+}
+
+.btn-group-lg>.btn, .btn-lg:hover {
+	background-color: white;
+	border-color: white;
+}
+
+hr {
+	width: 700px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
